@@ -6,3 +6,10 @@ Sample Application to show how all swing controller works.
 - Table and tree component
 - Multithreading
 - File import export feature
+
+
+Project 2:
+ - Database connection
+ - Insert, update, delete event
+ - JOptionPanel
+ - JToolBar
